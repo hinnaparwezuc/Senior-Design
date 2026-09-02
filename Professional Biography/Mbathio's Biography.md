@@ -4,7 +4,7 @@
 
 - **Name:** Mbathio Lo
 - **Email:** lomo@mail.uc.edu
-- **LinkedIn:** [https://www.linkedin.com/in/lo-mbathio/)
+- **LinkedIn:** https://www.linkedin.com/in/lo-mbathio/
 
 ## Co-op Work Experience
 
