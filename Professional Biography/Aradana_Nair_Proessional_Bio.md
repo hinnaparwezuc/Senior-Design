@@ -9,7 +9,7 @@
 ## Co-op Work Experience
 
 ### Data Engineering Co-op
-**The Lubrizol Corporation** | Spring 2024
+**The Lubrizol Corporation** | Jan 2024 - May 2024
 
 - Gained hands-on experience using SQL and working with data pipelines.
 - Assisted with building and maintaining pipelines used to move and transform data for different business needs.
@@ -17,7 +17,7 @@
 - Learned how data engineering processes make organizational data more accessible and useful.
 
 ### SAP Basis Co-Op
-**The Lubrizol Corporation** | Fall 2024
+**The Lubrizol Corporation** | Aug 2024 - Dec 2024
 
 - Worked with the SAP Basis team in a large enterprise technology environment.
 - Gained exposure to enterprise systems and the technical infrastructure supporting SAP applications.
@@ -25,7 +25,7 @@
 - Strengthened collaboration and communication skills through working with a technical team.
 
 ### AI and Development Co-Op
-**The Lubrizol Corporation** | Summer 2025
+**The Lubrizol Corporation** | May 2025 - Aug 2025
 
 - Worked on projects involving front-end development and UI design.
 - Gained experience developing user-facing solutions with a focus on user interaction and experience.
@@ -34,7 +34,7 @@
 - Combined technical development with creativity, design, and communication.
 
 ### Data Partner Co-op
-**The Lubrizol Corporation** | Spring 2026 - Summer 2026
+**The Lubrizol Corporation** | Jan 2026 - Aug 2026
 
 - Served as a connection between data, technology, and business needs during my fourth and fifth co-op rotations.
 - Collaborated with stakeholders to understand and identify their data requirements.
