@@ -1,7 +1,8 @@
-# Aradana Nair
+# Professional Biography
 
 ## Contact Information
 
+- **Name:** Aradana Nair
 - **Email:** naira5@mail.uc.edu
 
 ## Co-op Work Experience
