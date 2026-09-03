@@ -4,6 +4,7 @@
 
 - **Name:** Aradana Nair
 - **Email:** naira5@mail.uc.edu
+- **LinkedIn:** www.linkedin.com/in/nair-aradana
 
 ## Co-op Work Experience
 
