@@ -9,9 +9,9 @@
   - Major: Computer Science
   - Email: parwezhs@mail.uc.edu
 
-- **[Member Name]**
+- **Aradana Nair**
   - Major: Computer Science
-  - Email: [Email]
+  - Email: naira5@mail.uc.edu
 
 - **[Member Name]**
   - Major: Computer Science
