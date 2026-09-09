@@ -1,7 +1,8 @@
 # Senior Design Project Description
+Designing an educational tool that promotes deeper student reflection using evidence-based techniques to assess the impacts of experiential learning activities (e.g. co-op, undergraduate research, study abroad)
 
 ## Team Name
-[Team Name]
+ReFrame
 
 ## Team Members
 
@@ -13,20 +14,20 @@
   - Major: Computer Science
   - Email: naira5@mail.uc.edu
 
-- **[Member Name]**
+- **Maria Malik**
   - Major: Computer Science
-  - Email: [Email]
+  - Email: malikmi@mail.uc.edu
 
-- **[Member Name]**
+- **Priyanshi Kulshreshtha**
   - Major: Computer Science
-  - Email: [Email]
+  - Email: kulshrpi@mail.uc.edu
 
-- **[Member Name]**
+- **Mbathio Lo**
   - Major: Computer Science
-  - Email: [Email]
+  - Email: lomo@mail.uc.edu
 
 ## Project Topic Area
-[Project Topic Area]
+AI/Technology in Education – Experiential Learning & Student Reflection
 
 ## Faculty/Industry Advisor
-TBD
+Dr. David Reeping and Dr. Cedrick Kwuimy
