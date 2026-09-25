@@ -2,7 +2,6 @@
 
 **Project:** CEAS Co-op Reflection System  
 **Team members:** Maria Malik, Aradana Nair, Mbathio Lo, Priyanshi Kulshrestha, Hinna Parwez  
-**Milestone:** Week 04 - Part 1 Draft
 
 ## Stakeholder map
 
@@ -192,6 +191,5 @@ The stories are independently testable with fixtures, but share identity, assign
 
 ## Elicitation and remaining validation
 
-This draft is based on the team's supplied requirements. No completed interviews, observations, surveys, or policy reviews are claimed.
+This is based on the team's supplied requirements. No completed interviews, observations, surveys, or policy reviews are claimed.
 
-Before finalizing requirements, interview at least one CEAS student, one co-op advisor or workplace supervisor, and one UC IT representative about current workflows and pain points. Use a second technique, such as observing the current reflection workflow. Record actual findings in the design notebook or docs/elicitation/ and revise assumptions based on the evidence.
