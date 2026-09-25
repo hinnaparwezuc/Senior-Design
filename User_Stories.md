@@ -1,8 +1,8 @@
 # Assignment 4 - User Stories and Use Cases
 
 **Project:** CEAS Co-op Reflection System  
-**Team members:** Maria Malik, Aradana Nair, Mbathio Lo, Priyanshi Kulshrestha, Hinna Parwez
-**Milestone:** Week 04 - Part 1 draft
+**Team members:** Maria Malik, Aradana Nair, Mbathio Lo, Priyanshi Kulshrestha, Hinna Parwez  
+**Milestone:** Week 04 - Part 1 Draft
 
 ## Stakeholder map
 
